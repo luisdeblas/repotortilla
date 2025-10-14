@@ -14,6 +14,10 @@ public class Principal {
 		int huevos = 6;
 		boolean concebolla = true;
 
+		
+		System.out.println("HOLA");
+		
+		
 		System.out.println("1. Disponer ingredientes y utensilios de cocina.\n");
 		prepararIngredientes(patatas, concebolla);
 		freirIngredientes();
