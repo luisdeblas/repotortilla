@@ -16,7 +16,10 @@ public class Principal {
 
 		
 		System.out.println("HOLA");
-		
+		System.out.println("HOLA");
+		System.out.println("HOLA");
+		System.out.println("HOLA");
+		System.out.println("HOLA");
 		
 		System.out.println("1. Disponer ingredientes y utensilios de cocina.\n");
 		prepararIngredientes(patatas, concebolla);
