@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		System.out.println("INI");
+		System.out.println("INICIAL");
 
 		int patatas = 5;
 		int huevos = 6;
